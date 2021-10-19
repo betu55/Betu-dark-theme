@@ -3,11 +3,23 @@
     "displayName": "Betu-dark-theme",
     "description": "a simple dark theme for enthusiasts",
     "version": "0.0.1",
+    "publisher": "Betu55",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/betu55/Betu-dark-theme.git"
+    },
     "engines": {
         "vscode": "^1.61.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark",
+        "Dark-theme",
+        "Betu-dark-theme",
+        "Betu55"
     ],
     "contributes": {
         "themes": [
