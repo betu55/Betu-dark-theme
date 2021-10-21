@@ -1,8 +1,8 @@
 # README
 
-A minimal dark theme fro enthusiasts
+A minimal dark theme for enthusiasts
 
-Example in C#
+Example
 
 Editor:
 <img
